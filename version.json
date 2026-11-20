@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.1",
-  "download_url": "https://github.com/Lesteraq-hub/bimoneda-updates/releases/download/v1.0.1/app-release.apk",
-  "changelog": "- Se agregó el sistema de actualizaciones.\n- Mejoras visuales en la pantalla de Ajustes."
+  "latest_version": "1.1.0",
+  "download_url": "https://github.com/Lesteraq-hub/bimoneda-updates/releases/download/v1.1.0/app-release.apk",
+  "changelog": "- Nueva función: Tasas automáticas (BCV, Binance, Euro y Promedio).\n- Soporte completo para el Euro (EUR).\n- Nuevo diseño de pantalla de tasas."
 }
