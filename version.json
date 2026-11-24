@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.2.0",
-  "download_url": "https://github.com/Lesteraq-hub/bimoneda-updates/releases/download/v1.2.0/app-release.apk",
-  "changelog": "- Corrección de Saldo Inicial en Dashboard al crear nuevas billeteras.\n- Ajuste contable automático de saldo en billeteras sin alterar historial.\n- Corrección y estabilidad total en selector de categorías de movimientos.\n- Corrección visual en presupuestos (eliminado cuadro negro).\n- Presupuestos multimoneda (USD/VES/EUR) y períodos personalizados.\n- Nuevo módulo de Deudas y Préstamos (Te deben / Debes) con abonos.\n- Buscador de movimientos y filtros avanzados por categoría, cuenta y fechas.\n- Vista de Calendario con marcadores interactivos de gastos diarios.\n- Módulo de Recordatorios de Pagos y servicios con notificaciones locales.\n- Escáner conversor de divisas flotante en tiempo real sin guardar datos.\n- Calculadora integrada en el campo de monto de transacciones.\n- Notificaciones automáticas de progreso (50%, 80%, 100%) y vencimiento en Metas."
+ "latest_version": "1.4.1",
+  "download_url": "https://github.com/Lesteraq-hub/bimoneda-updates/releases/download/v1.4.1/app-release.apk",
+  "changelog": "- ¡Lanzamiento Oficial v1.4.1!\n- Modo privacidad global (oculta todos los montos).\n- Botón para limpiar caché en Ajustes.\n- Sistema de actualizaciones OTA integrado.\n- Notificaciones y Huella Dactilar reparadas.\n- Bimoneda Wrapped, Criptomonedas y Transacciones Recurrentes."
 }
