@@ -1,5 +1,5 @@
 {
- "latest_version": "1.4.1",
-  "download_url": "https://github.com/Lesteraq-hub/bimoneda-updates/releases/download/v1.4.1/app-release.apk",
-  "changelog": "- ¡Lanzamiento Oficial v1.4.1!\n- Modo privacidad global (oculta todos los montos).\n- Botón para limpiar caché en Ajustes.\n- Sistema de actualizaciones OTA integrado.\n- Notificaciones y Huella Dactilar reparadas.\n- Bimoneda Wrapped, Criptomonedas y Transacciones Recurrentes."
+  "latest_version": "1.5.0",
+  "download_url": "https://github.com/lesteraq-hub/bimoneda-updates/releases/download/v1.5.0/app-release.apk",
+  "changelog": "¡Nueva versión v1.5.0!\n- Nuevo módulo completo de Deudas (Por cobrar y Por pagar, abonos multimoneda, cuotas, historial y resumen para WhatsApp).\n- Navegación renovada: Deudas en la barra inferior y Ajustes en el ícono de perfil.\n- Notificaciones locales reparadas con alertas de vencimiento y botón de prueba en Ajustes.\n- Motor multi-tasa sincronizado, etiquetas con mejor contraste y filtro de fechas en español."
 }
